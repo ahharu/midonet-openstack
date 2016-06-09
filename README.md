@@ -3,7 +3,7 @@ Module to deploy Openstack w/ Midonet. For Development and CI purposes
 
 # How to Run
 
-Execute the (all-in-one.sh) script.
+Execute the [all-in-one-sh](all-in-one.sh) script.
 
 # Proposed
 
