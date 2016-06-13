@@ -5,7 +5,7 @@ Module to deploy Openstack w/ Midonet. For Development and CI purposes
 
 Execute the [all-in-one-sh](all-in-one.sh) script.
 
-# Handy Alias to update also the submodules :)
+# Handy Alias to update also the submodules
 
 `git config alias.pullall '!git pull && git submodule update --init --recursive'`
 
